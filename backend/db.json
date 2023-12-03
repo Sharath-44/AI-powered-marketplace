@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "email": "regular@example.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "image": "https://th.bing.com/th/id/OIP.k6AyqfHoNGs2ZP9WGr8tuQHaHa?w=200&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "Title": "Ghostek ATOMIC Slim ZFold4 Case - Clear Prismatic Metal Bumper, Shockproof Protection for Samsung Galaxy Z Fold4 (7.6 Inch) 2022",
+      "Price": "928,874",
+      "Reviews": "100",
+      "Rating": 2,
+      "Features": [
+        "no Kickstand,no WaterProof,not breakproof",
+        "weak"
+      ]
+    },
+    {
+      "Query": "headphones",
+      "image ": "https://m.media-amazon.com/images/I/61s3IkXIZjL._AC_UY436_QL65_.jpg",
+      "Title": "BANG & OLUFSEN H95 Bluetooth Wireless On Ear Headphones with Mic (Gray)",
+      "Price": "91,74,377",
+      "Reviews": "338",
+      "Rating": 5,
+      "Features": [
+        "on ear",
+        "wireless",
+        "noise cancellation",
+        "20 hrs battery life"
+      ]
+    },
+    {
+      "Query": "samsung phone cases",
+      "image": "https://m.media-amazon.com/images/I/61s3yxRHTzL._AC_UY436_QL65_.jpg",
+      "Title": "ZAGG Gear4 Everest Samsung Galaxy S23+ Kickstand Phone Case (Textured), D30 Bio Drop Protection up to 20ft \/ 6m, Works with Wireless Charging Systems, Reinforced Backplate with Edge-To-Edge Protection",
+      "Price": "924,333",
+      "Reviews": "71",
+      "Rating": 2,
+      "Features": [
+        "Kickstand,WaterProof,not breakproof",
+        "soft"
+      ]
+    },
+    {
+      "Query": "samsung charger",
+      "image ": [
+        "https://m.media-amazon.com/images/I/71aRQYxGFXL._AC_UY436_QL65_.jpg"
+      ],
+      "Title": "Baseus GaN Mini Quick 3 Port Charger C+C+A 120W EU Pin for iPhone, Macbook Pro, Type C Laptop, Powerbank, Samsung USB C Laptops (Include: Baseus Xiaobai series fast charging Cable Type-C to Type-C 100W(20V\/5A) 1m)(White)",
+      "Price": "914,525",
+      "Reviews": "3",
+      "Rating": 5,
+      "Features": [
+        "white",
+        "type-C"
+      ]
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/61EebtybrBL._AC_UY436_QL65_.jpg",
+      "Title": "Ghostek ATOMIC slim Samsung Galaxy Z Fold 5 Case Crystal Clear Back with Aluminum Metal Bumper Premium Rugged Tough Heavy Duty Shockproof Protection Phone Covers Designed for 2023 ZFold5 (7.6\") (Pink)",
+      "Price": "951,680",
+      "Reviews": "37",
+      "Rating": 3,
+      "Features": [
+        "no Kickstand,WaterProof,breakproof",
+        "strong"
+      ]
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/91Hc55XNyZL._AC_UY436_QL65_.jpg",
+      "Title": "Ghostek ATOMIC slim Samsung Galaxy Fold 5 Case Crystal Clear Back with Aluminum Metal Bumper Premium Rugged Tough Heavy Duty Shockproof Protection Phone Cover Designed for 2023 Z Fold5 (7.6\") (Purple)",
+      "Price": "951,680",
+      "Reviews": "37",
+      "Rating": 3,
+      "Features": [
+        "no Kickstand,Not WaterProof,breakproof",
+        "soft"
+      ]
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/616nKnz3c8L._AC_UY436_QL65_.jpg",
+      "Title": "Ghostek ATOMIC slim Galaxy Fold 5 Case Crystal Clear Back with Aluminum Metal Bumper Premium Rugged Tough Heavy Duty Shockproof Protection Phone Cover Designed for 2023 Samsung Z Fold5 (7.6in) (Green)",
+      "Price": "951,680",
+      "Reviews": "37",
+      "Rating": 1,
+      "Features": [
+        "Kickstand,WaterProof,not breakproof",
+        "cushion"
+      ]
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/51TXkySk9UL._AC_UY436_QL65_.jpg",
+      "Title": "Samsung Bumper Case for Galaxy S21 (Silicone | Black | Solid)",
+      "Price": "933,955",
+      "Reviews": "6,539",
+      "Rating": 4,
+      "Features": [
+        "Kickstand,WaterProof,breakproof",
+        "cushion"
+      ]
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/617fJRQPHXL._AC_UY436_QL65_.jpg",
+      "Title": "Samsung Galaxy S21 Case, LED Wallet Cover - Black (US Version)",
+      "Price": "932,690",
+      "Reviews": "112",
+      "Rating": 3,
+      "Features": [
+        "Kickstand,WaterProof,not breakproof",
+        "soft"
+      ]
+    }
+  ]
+}

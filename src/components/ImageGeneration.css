@@ -1,0 +1,133 @@
+/* styles.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.image-generation-container {
+  text-align: center;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #333;
+}
+
+.image-form-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+label {
+  margin-bottom: 10px;
+}
+.image-generation-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.item-select,
+.text-input,
+.generate-button {
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 14px; /* Adjust font size to make it smaller */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%; /* Make the input and button full-width */
+}
+
+.generate-button {
+  background-color: #2ecc71;
+  color: #fff;
+  cursor: pointer;
+}
+
+.generate-button:hover {
+  background-color: #27ae60;
+}
+
+.generated-image-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.generated-image-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.text-input {
+  padding: 8px;
+  margin-bottom: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.generate-button {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  margin-top: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.generate-button:hover {
+  background-color: #45a049;
+}
+
+.generated-image-container {
+  margin-top: 20px;
+}
+
+h3 {
+  color: #333;
+}
+
+.scroll-down {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.scroll-down-text {
+  margin-bottom: 10px;
+}
+
+.scroll-down-arrow {
+  width: 30px;
+  height: 30px;
+  border: solid #333;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  margin-bottom: 10px;
+  cursor: pointer;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-20px);
+  }
+  60% {
+    transform: translateY(-10px);
+  }
+}
